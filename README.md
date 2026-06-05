@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Quaan 👋
 
-<!--
-**Quaan5/Quaan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student at UTS
+- 📚 Studying Artificial Intelligence
+- 🔬 Interested in AI and Cybersecurity
+- 💻 Interested in Machine Learning and Reverse Engineering.
+- 🌱 Currently learning AI fundamental and Pentesting fundamental.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Python
+- Java (OOP)
+
+### Technologies & Tools
+- Git & GitHub
+- HTML/CSS
+- VS Code
+- Notion
+
+## Projects
+
+### Tic Tac Toe AI
+- A simple game 3x3 Tic Tac Toe, but with AI, and minimax algorithm
+
+##Research Interest
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Reverse Engineering
+- Blockchain
+
+## Contact
+- Email: quanp4214@gmail.com
+
+---
+*"The beautiful thing about learning is that nobody can take it away from you."*
